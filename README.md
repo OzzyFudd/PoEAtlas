@@ -1,7 +1,7 @@
 # PoEAtlas
 
 To use, open this link:
-https://inputusernamehere.github.io/PoEAtlas/dark.html
+https://ozzyfudd.github.io/PoEAtlas/dark.html
 
 Or this for the light theme:
-https://inputusernamehere.github.io/PoEAtlas/
+https://ozzyfudd.github.io/PoEAtlas/
