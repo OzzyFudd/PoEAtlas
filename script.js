@@ -18,7 +18,8 @@ maps = {
     Tier13 : ["Arsenal", "Caldera", "Core", "Desert_Spring", "Ghetto", "Malformation", "Park", "Shrine", "Terrace"],
     Tier14 : ["Acid_Lakes", "Colosseum", "Crimson_Temple", "Dark_Forest", "Dig", "Palace", "Plaza"],
     Tier15 : ["Basilica", "Carcass", "Lava_Lake", "Reef", "Sunken_City"],
-    Tier16 : ["Forge_of_the_Phoenix", "Lair_of_the_Hydra", "Maze_of_the_Minotaur", "Pit_of_the_Chimera", "Vaal_Temple"]
+    Tier16 : ["Forge_of_the_Phoenix", "Lair_of_the_Hydra", "Maze_of_the_Minotaur", "Pit_of_the_Chimera", "Vaal_Temple"],
+    Tier17 : ["The_Shaper's_Realm"]
 }
 
 completedMaps = {};
